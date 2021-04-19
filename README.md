@@ -2,9 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Status
 
-sdf sdfshdjfs dfsdf sdf s
-sdf s
-
-asd
+ 1. index.html
